@@ -53,7 +53,7 @@
         cidr: "{{PubSub3Cidr}}"
         map_public: yes
         resource_tags:
-          Name: vprofile-pubsub1
+          Name: vprofile-pubsub3
       register: pubsub3_out
 
 
